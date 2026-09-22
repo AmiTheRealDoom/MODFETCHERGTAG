@@ -8,5 +8,10 @@
     "ModName": "Utila",
     "URL": "https://github.com/Loafiat/Newtilla/releases/download/1.1.0/Newtilla.dll",
     "Version": "1.6.14"
+  },
+  {
+    "ModName": "BetterComputerCommands",
+    "URL": "https://github.com/kinomonke/BetterComputerCommands/releases/download/V2.0/BetterComputerCommands.dll",
+    "Version": "2.0"
   }
 ]
