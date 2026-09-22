@@ -5,8 +5,8 @@
     "Version": "V1.0.7"
   },
   {
-    "ModName": "BelphinEX",
-    "URL": "https://github.com/BepInEx/BepInEx/releases/download/BepInEx 5.4.23.5/BepInEx_win_x64_5.4.23.5.zip",
-    "Version": "VERNOTFOUND"
+    "ModName": "Utila",
+    "URL": "https://github.com/legoandmars/Utilla/releases/latest/download/Utilla.dll",
+    "Version": "v1.6.14"
   }
 ]
