@@ -13,5 +13,10 @@
     "ModName": "BetterComputerCommands",
     "URL": "https://github.com/kinomonke/BetterComputerCommands/releases/download/V2.0/BetterComputerCommands.dll",
     "Version": "2.0"
+  },
+  {
+    "ModName": "IIPIXELMENU",
+    "URL": "https://github.com/swdgo/iiPixel-Mod-Menu/releases/download/4.0/iiPixelModMenuV4.dll",
+    "Version": "4.0"
   }
 ]
